@@ -672,17 +672,17 @@ $G (globally) \ \ Ga$ - "$a$ истинно во все моменты врем�
 3. CTL computation tree logic
 
     - формулы состояний: 
-    $\begin{cases}
-    \neg a\\
+    $$\begin{cases}
+    \neg a \\
      a \vee b
-     \end{cases}$
+     \end{cases}$$
 
     - формулы пути: 
-    $\begin{cases} 
-    EXa\\ 
-    EGa\\ 
-    E (aUb)\\
-    \end{cases}$
+    $$\begin{cases} 
+    EXa \\ 
+    EGa \\ 
+    E (aUb) \\
+    \end{cases}$$
 
 4. CTL* computation tree logic (блистательный) - не удалось формализовать.
 
