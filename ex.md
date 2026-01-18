@@ -671,18 +671,20 @@ $G (globally) \ \ Ga$ - "$a$ истинно во все моменты врем�
     $$A(c \wedge b \to a)$$
 3. CTL computation tree logic
 
-    - формулы состояний: 
-    $$\begin{cases}
-    \neg a \\
-     a \vee b
-     \end{cases}$$
+формулы состояний: 
 
-    - формулы пути: 
-    $$\begin{cases} 
-    EXa \\ 
-    EGa \\ 
-    E (aUb) \\
-    \end{cases}$$
+$$\begin{cases}
+\neg a \\
+a \vee b
+\end{cases}$$
+
+формулы пути: 
+
+$$\begin{cases} 
+EXa \\ 
+EGa \\ 
+E (aUb) \\
+\end{cases}$$
 
 4. CTL* computation tree logic (блистательный) - не удалось формализовать.
 
